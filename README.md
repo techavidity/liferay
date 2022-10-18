@@ -1,1 +1,1 @@
-# liferay
+# Liferay Practice @ TECHAVIDITY
